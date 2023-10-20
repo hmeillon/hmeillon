@@ -7,7 +7,10 @@ I'm open to learn from whoever wants to teach me, I'm very open minded when lear
 - 👀 I’m interested in tech, designing new and interesting things.
 - 🌱 I’m currently learning HTML, CSS & JavaScript.
 - 💞️ I’m looking to collaborate on whatever can help to improve my coding skills.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/hector-meillon/"><img src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png" width="20px"></a> <a href="https://twitter.com/meillon_hector"><img src="https://www.sarkarinaukriexams.com/images/import/sne56107789919.png" width="20px"></a>
+- 📫 How to reach me:
+<a href="https://www.linkedin.com/in/hector-meillon/"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="20px"></a>
+<a href="https://twitter.com/meillon_hector"><img src="https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png" width="20px"></a>
+<a href="meillon.hector@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/10312/10312987.png" width="20px"></a>
 <hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmeillon&theme=tokyonight)](https://github.com/hmeillon/github-readme-stats)
