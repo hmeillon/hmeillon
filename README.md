@@ -10,7 +10,7 @@ I'm open to learn from whoever wants to teach me, I'm very open minded when lear
 - 📫 How to reach me:
 <a href="https://www.linkedin.com/in/hector-meillon/"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="20px"></a>
 <a href="https://twitter.com/meillon_hector"><img src="https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png" width="20px"></a>
-<a href="meillon.hector@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/10312/10312987.png" width="20px"></a>
+<a href="mailto:meillon.hector@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/10312/10312987.png" width="20px"></a>
 <hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmeillon&theme=tokyonight)](https://github.com/hmeillon/github-readme-stats)
