@@ -1,4 +1,4 @@
-Hi there 👋!
+<h3>Hi there 👋!</h3>
 
 My name is Héctor Meillon, a Full-Stack Developer in the making based in Mexico <img src="https://cdn-icons-png.flaticon.com/512/390/390142.png" width="17px">. I'm a logistic engineer by profession,
 but tech is what I love the most, which is the reason why I decided to go and learn how to code!
