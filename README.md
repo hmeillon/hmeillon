@@ -5,7 +5,7 @@ but tech is what I love the most, which is the reason why I decided to go and le
 I'm open to learn from whoever wants to teach me, I'm very open minded when learning new things!
 
 - 👀 I’m interested in tech, designing new and interesting things.
-- 🌱 I’m currently learning HTML, CSS & JavaScript.
+- 🌱 I’m currently learning Express.js
 - 💞️ I’m looking to collaborate on whatever can help to improve my coding skills.
 - 📫 How to reach me:
 <a href="https://www.linkedin.com/in/hector-meillon/"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="20px" alt="linkedin button"></a>
