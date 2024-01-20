@@ -1,5 +1,5 @@
 # ✌️ About Me:
-My name is Héctor Meillon, a Full-Stack Developer in the making based in Mexico . I'm a logistic engineer by profession, but tech is what I love the most, which is the reason why I decided to go and learn how to code! I'm open to learn from whoever wants to teach me, I'm very open minded when learning new things!<br><br>👀 I’m interested in tech, designing new and interesting things.<br>🌱 I’m currently learning Backend (Node.js, Express.js, ESJ)<br>💞️ I’m looking to collaborate on whatever can help to improve my coding skills.<br>
+My name is Héctor Meillon, a Full-Stack Developer in the making based in Mexico. Full-stack rookie, problem-solving enthusiast. My code may not be perfect, but my dedication is boundless. I bring strong adaptability, a relentless curiosity, and a willingness to learn from the best. Let's craft pixel-perfect web experiences together!<br><br>👀 I’m interested in tech, designing new and interesting things.<br>🌱 I’m currently learning Backend (Node.js, Express.js, ESJ)<br>💞️ I’m looking to collaborate on whatever can help to improve my coding skills.<br>
 
 
 ## 🌐 Socials:
