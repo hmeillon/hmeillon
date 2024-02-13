@@ -1,7 +1,7 @@
 # ✌️ About Me:
 My name is Héctor Meillon, a Full-Stack Developer in the making based in Mexico.
 <br/>
-Full-stack rookie, problem-solving enthusiast. My code may not be perfect, but my dedication is boundless. I bring strong adaptability, a relentless curiosity, and a willingness to learn from the best. Let's craft pixel-perfect web experiences together!<br><br>👀 I’m interested in tech, designing new and interesting things.<br>🌱 I’m currently learning Backend (Node.js, Express.js, ESJ)<br>💞️ I’m looking to collaborate on whatever can help to improve my coding skills.<br>
+Full-stack rookie, problem-solving enthusiast. My code may not be perfect, but my dedication is boundless. I bring strong adaptability, a relentless curiosity, and a willingness to learn from the best. Let's craft pixel-perfect web experiences together!<br><br>👀 I’m interested in tech, designing new and interesting things.<br>🌱 I’m currently learning Backend (APIs) and React.js for Frontend <br>💞️ I’m looking to collaborate on whatever can help to improve my coding skills.<br>
 
 
 ## 🌐 Socials:
